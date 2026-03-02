@@ -26,5 +26,6 @@ int main()
     atlag = sum / (double)N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
     delete b;
+    std::cout << "ismeros sor" << std::endl;
     return 0;
 }
